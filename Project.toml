@@ -1,0 +1,4 @@
+name = "RPLIDAR"
+uuid = "12d4e911-b3de-49d5-8481-39f3007095d7"
+authors = ["Evert Schippers <e.schippers@fugro.com>"]
+version = "0.1.0"
